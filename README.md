@@ -3,7 +3,7 @@ Repositório criado para a manutenção do controle de versão dos artefatos ger
 
 # 1. Tema do trabalho
 
-O tema do trabalho está especificado no arquivo [definicao_trabalho_grupo_3](https://github.com/gilmarUFG/ps-20252-g3/blob/develop/definicao_trabalho/definicao_trabalho_grupo_3.md).
+O tema do trabalho está especificado no arquivo [definicao_trabalho_grupo_3](https://github.com/gilmarUFG/ps-20252-g3/blob/develop/definicao_trabalho_grupo_3.md).
 
 # 2. Grupo de trabalho
 
