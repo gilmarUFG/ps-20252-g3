@@ -1,6 +1,6 @@
 # Backlog do trabalho
 
-Os itens componentes do backlog do trabalho estão descritos na tabela a seguir e serão implementados na iteração definida na coluna Ïteração".
+Os itens componentes do backlog do trabalho estão descritos na tabela a seguir e serão implementados na iteração definida na coluna "Iteração".
 
 |Item|Descrição|Iteração|
 |--|--|--|
