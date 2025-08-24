@@ -7,7 +7,7 @@ O tema do trabalho está especificado no arquivo [definicao_trabalho_grupo_3](ht
 
 # 2. Grupo de trabalho
 
-O tema do trabalho está especificado no arquivo [definicao_trabalho_grupo_3](https://github.com/gilmarUFG/ps-20252-g3/blob/develop/definicao_trabalho_grupo_3.md).
+O tema do trabalho está especificado no arquivo [Grupo de Trabalho](https://github.com/gilmarUFG/ps-20252-g3/blob/develop/grupo_trabalho.md).
 
 # 3. Backlog do Trabalho
 
