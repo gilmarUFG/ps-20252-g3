@@ -2,8 +2,8 @@
 
 |#|Atividade|Entregável|Data Conclusão|Responsável|Situação|
 |--|--|--|--|--|--|
-|1|Iniciar a definição de tema para a elaboração do trabalho em grupo|Arquivo com a definição do tema|13/8/2025|Grupo|Em Andamento|
-|2|Concluir a definição do tema do trabalho em grupo.|Entregar um texto com os nomes dos componentes do grupo e uma descrição em alto nível do tema do trabalho em grupo.|20/8/2025|Membro xyz|Em Andamento|
+|1|Iniciar a definição de tema para a elaboração do trabalho em grupo|Arquivo com a definição do tema|13/8/2025|Grupo|Concluído|
+|2|Concluir a definição do tema do trabalho em grupo.|Entregar um texto com os nomes dos componentes do grupo e uma descrição em alto nível do tema do trabalho em grupo.|20/8/2025|Membro Eduardo|Concluído|
 |3|Início da elaboração do plano de trabalho para o trabalho em grupo.|Plano de Trabalho parcial|27/8/2025|Membro xyz|Backlog|
 |4|Conclusão da elaboração do plano de trabalho para o trabalho em grupo.|Plano de Trabalho Concluído|03/9/2025|Membro xyz|Backlog|
 |5|Elaboração do backlog do para o trabalho em grupo.|Documento constando as funcionalidades constantes do backlog do trabalho em grupo.|10/9/2025|Membro xyz|Backlog|
