@@ -21,6 +21,10 @@ O cronograma de execução das atividades do trabalho estão especificados no ar
 
 O Conjunto de histórias de usuários definido, a partir dos itens do backlog do trabalho, está descrito no arquivo: [historias_usuarios](https://github.com/gilmarUFG/ps-20252-g3/blob/develop/historias_usuarios/historias_usuarios.md).
 
+O template para preenchimento das especificações das histórias de usuário pode ser encontrado em: [Template HU](https://github.com/gilmarUFG/ps-20252-g3/blob/develop/historias_usuarios/template_hu.md).
+
+Um exemplo de como deve ser preenchido os arquivos de especificação de histórias de usuários pode ser encontrado em:[Template HU Exemplo](https://github.com/gilmarUFG/ps-20252-g3/blob/develop/historias_usuarios/template_hu_exemplo.md).
+
 # 6. Diagramas de Classe
 
 Os Diagramas de classes do projeto (Domínio e _Design_) estão especificados nos seguintes arquivos:
